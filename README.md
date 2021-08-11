@@ -1,5 +1,4 @@
-### Hi, my name is ALTERAR, I am a front-end web and mobile developer 😁💻
-#### ALTERAR
+### Hi, my name is Rodrigo Santos, I am a Web and Mobile front-end developer of Alta Soluções
 
 ##
 
