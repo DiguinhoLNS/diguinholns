@@ -1,4 +1,4 @@
-### Hi, my name is Rodrigo Santos, I am a Web and Mobile front-end developer of Alta Soluções
+### Hi, my name is Rodrigo Santos, i am a Web and Mobile front-end developer of Alta Soluções
 
 ##
 
