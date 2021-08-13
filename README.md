@@ -18,15 +18,12 @@
     <img align="center" alt="Digo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <br/>
     <br/>
-    <img align="center" alt="Digo-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
-    <img align="center" alt="Digo-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg">
-    <br/>
-    <br/>
-    <img align="center" alt="Digo-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg">
-    <br/>
-    <br/>
     <img align="center" alt="Digo-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
     <img align="center" alt="Digo-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
+    <br/>
+    <br/>
+    <img align="center" alt="Digo-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+    <img align="center" alt="Digo-Js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg">
   </div>
   
   ##
