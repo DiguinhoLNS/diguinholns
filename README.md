@@ -2,7 +2,7 @@
 
 # &lt;/&gt; [Rodrigo Santos]
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2B818C&center=true&vCenter=true&width=500&lines=Frontend+Engineer;React+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=21C063&center=true&vCenter=true&width=500&lines=Frontend+Engineer;React+Enthusiast)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-santos-389288202)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rolnspessoal@gmail.com)
@@ -74,7 +74,7 @@
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiguinhoLNS&layout=compact&theme=radical&hide_border=true) -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiguinhoLNS&theme=radical&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DiguinhoLNS&theme=whatsapp-dark2&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 </div>
 
