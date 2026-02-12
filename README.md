@@ -12,21 +12,21 @@
 
 ---
 
-## `> whoami`
+## `> about_me`
 
 ```json
 {
-  "nome": "Rodrigo Lima Nogueira Santos",
-  "cargo": "Frontend Engineer",
-  "localizacao": "São Paulo, SP, BR",
-  "foco_atual": "Design Systems, Escalabilidade e Microfrontends",
-  "aprendendo": "C#, Framer Motion"
+  "name": "Rodrigo Lima Nogueira Santos",
+  "position": "Frontend Engineer",
+  "location": "São Paulo, SP, BR",
+  "focus": "Design Systems, Scalability e Microfrontends",
+  "learning": "C#, Framer Motion"
 }
 ```
 
 ## `> tech_stack`
 
-#### Linguagens
+#### Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,14 +41,14 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-#### Estilizacao
+#### Styles
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![FontAwesome](https://img.shields.io/badge/FontAwesome-528DD7?style=for-the-badge&logo=font-awesome&logoColor=white)
 
-#### Ferramentas
+#### Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
