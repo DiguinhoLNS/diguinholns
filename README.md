@@ -1,44 +1,104 @@
-### Hi, my name is Rodrigo Santos, i am a Web and Mobile front-end developer
+<div align="center">
 
-##
+# &lt;/&gt; [Rodrigo Santos]
 
- <div>
-  <a href="https://github.com/diguinholns">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diguinholns&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diguinholns&layout=compact&langs_count=7&theme=synthwave"/>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2B818C&center=true&vCenter=true&width=500&lines=Frontend+Engineer;React+Enthusiast)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-santos-389288202)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rolnspessoal@gmail.com)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://seusite.com) -->
+
 </div>
-  
-  <div style="display: inline_block"><br>
-    <img align="center" alt="Digo-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Digo-CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Digo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Digo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Digo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img align="center" alt="Digo-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
-    <img align="center" alt="Digo-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-    <img align="center" alt="Digo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-    <br/>
-    <br/>
-    <img align="center" alt="Digo-MaterialUI" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg">
-    <img align="center" alt="Digo-Bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="Digo-Tailwind" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
-    <br/>
-    <br/>
-    <img align="center" alt="Digo-VS Code" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
-    <img align="center" alt="Digo-VS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
-    <img align="center" alt="Digo-AS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
-    <img align="center" alt="Digo-Connect" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-plain.svg">
-    <br/>
-    <br/>
-    <img align="center" alt="Digo-NPM" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
-    <img align="center" alt="Digo-Yarn" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg">
-  </div>
-  
-  ##
- 
-  <div>
-    <a href = "mailto:rolnspessoal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-    
-   ![Snake animation](https://github.com/diguinholns/diguinholns/blob/output/github-contribution-grid-snake.svg)
-   
-  </div>
+
+---
+
+## `> whoami`
+
+```json
+{
+  "nome": "Rodrigo Lima Nogueira Santos",
+  "cargo": "Frontend Engineer",
+  "localizacao": "São Paulo, SP, BR",
+  "foco_atual": "Design Systems, Escalabilidade e Microfrontends",
+  "aprendendo": "C#, Framer Motion"
+}
+```
+
+## `> tech_stack`
+
+#### Linguagens
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
+#### Frameworks & Libs
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### Estilizacao
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![FontAwesome](https://img.shields.io/badge/FontAwesome-528DD7?style=for-the-badge&logo=font-awesome&logoColor=white)
+
+#### Ferramentas
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B49?style=for-the-badge&logo=confluence&logoColor=white)
+![Monday.com](https://img.shields.io/badge/Monday.com-FF6A13?style=for-the-badge&logo=monday.com&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![NewRelic](https://img.shields.io/badge/New_Relic-008000?style=for-the-badge&logo=new-relic&logoColor=white)
+![OneSignal](https://img.shields.io/badge/OneSignal-1E2022?style=for-the-badge&logo=onesignal&logoColor=white)
+
+## `> git_stats`
+
+<div align="center">
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiguinhoLNS&show_icons=true&theme=radical&hide_border=true&count_private=true) -->
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiguinhoLNS&layout=compact&theme=radical&hide_border=true) -->
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiguinhoLNS&theme=radical&hide_border=true)
+
+</div>
+
+<!-- ## `> pinned_repos`
+
+<div align="center">
+
+[![TCC](https://github-readme-stats.vercel.app/api/pin/?username=DiguinhoLNS&repo=TCC&theme=radical&hide_border=true)](https://github.com/DiguinhoLNS/TCC)
+[![Quem Me Deve App](https://github-readme-stats.vercel.app/api/pin/?username=DiguinhoLNS&repo=quem-me-deve-app&theme=radical&hide_border=true)](https://github.com/DiguinhoLNS/quem-me-deve-app)
+
+</div> -->
+
+---
+
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=DiguinhoLNS&color=ff6ec7&style=flat-square&label=Visitors)
+
+</div>
+
+---
+
+<div align="center">
+
+![Snake animation](https://github.com/diguinholns/diguinholns/blob/output/github-contribution-grid-snake.svg)
+
+</div>
