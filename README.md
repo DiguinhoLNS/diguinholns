@@ -17,7 +17,7 @@
 ```json
 {
   "name": "Rodrigo Lima Nogueira Santos",
-  "position": "Frontend Engineer",
+  "position": "Software Engineer",
   "location": "São Paulo, SP, BR",
   "focus": "Design Systems, Scalability e Microfrontends",
   "learning": "C#, Framer Motion"
