@@ -2,7 +2,7 @@
 
 # &lt;/&gt; [Rodrigo Santos]
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=21C063&center=true&vCenter=true&width=500&lines=Frontend+Engineer;React+Enthusiast)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=21C063&center=true&vCenter=true&width=500&lines=Software+Engineer;React+Enthusiast)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-santos-389288202)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rolnspessoal@gmail.com)
